@@ -3,7 +3,7 @@ Contributors: ahortin
 Tags: users, users list, registered date, admin, profile  
 Requires at least: 6.4  
 Tested up to: 6.5  
-Stable tag: 1.0.0  
+Stable tag: 1.0.1  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -35,6 +35,9 @@ The format of the date within the Users list screen is fixed, but you can change
 ![User Profile screen](https://maddisondesigns.com/wp-content/uploads/2024/07/display-user-registration-date_screenshot-02.png "User Profile screen")
 
 ## Changelog
+
+### 1.0.1
+- Updated Plugin URL to match Github repository URL
 
 ### 1.0.0
 - Initial version 🎉
