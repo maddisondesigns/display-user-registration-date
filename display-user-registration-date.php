@@ -3,7 +3,7 @@
 Plugin Name: Display User Registration Date
 Plugin URI: https://github.com/maddisondesigns/display-user-registration-date
 Description: A simple plugin to display the registration date of your Users on the Users List screen and the single User page.
-Version: 1.0.1
+Version: 1.0.2
 Author: Anthony Hortin
 Author URI: http://maddisondesigns.com
 Text Domain: display-user-registration-date

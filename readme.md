@@ -3,7 +3,7 @@ Contributors: ahortin
 Tags: users, users list, registered date, admin, profile  
 Requires at least: 6.4  
 Tested up to: 6.5  
-Stable tag: 1.0.1  
+Stable tag: 1.0.2  
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -17,8 +17,9 @@ The registration date will be displayed with respect to the timezone selected wi
 
 ## Installation
 
-1. Upload the 'display-user-registration-date' folder to your '/wp-content/plugins/' directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. [Download latest zip from Github](https://github.com/maddisondesigns/display-user-registration-date/releases/latest)
+2. Unzip file and upload the 'display-user-registration-date' folder to your '/wp-content/plugins/' directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
 
 
 ## Frequently Asked Questions
@@ -35,6 +36,9 @@ The format of the date within the Users list screen is fixed, but you can change
 ![User Profile screen](https://maddisondesigns.com/wp-content/uploads/2024/07/display-user-registration-date_screenshot-02.png "User Profile screen")
 
 ## Changelog
+
+### 1.0.2
+- Updated installation instructions in readme
 
 ### 1.0.1
 - Updated Plugin URL to match Github repository URL
